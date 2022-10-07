@@ -4,7 +4,8 @@ The website has two module. The client and the admin module.
 The client module is where the site visitor interacts with the application.
 
 # Functionalities
-sign up - new clients can sign up to the site.
+# # sign up 
+new clients can sign up to the site.
 Login - Existing customer can login using their email and password
 View Books - Both user (logged in and not logged in ) can view available books
 Add books on cart - 
