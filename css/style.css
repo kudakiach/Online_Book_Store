@@ -1,0 +1,156 @@
+section{
+
+}
+.menu-bar{
+	background: #301030;
+	padding-left:15px;
+}
+.navbar-nav{
+	color:white !important;
+}
+.nav-item{
+	padding-left:30px !important;
+}
+.nav-link {
+	color:white !important;
+}
+.nav-link:hover {
+	color:white !important;
+	background: #302030;
+}
+
+#myTabContent{
+	margin-top: 20px;
+}
+.nav-link:hover{
+	text-decoration: none;
+}
+
+.navbar-brand{
+	color:white !important;
+}
+.user-menu li{
+	float:left;
+}
+
+.info a{
+	padding:0 20px;
+	color:black;
+	border-right: 1px solid;
+}
+.info a:hover{
+	text-decoration: none;
+	color:#301030;
+}
+.pr-7{
+	padding-right: 5em;
+}
+.banner{
+	position: relative;
+
+}
+.overlay{
+	width:100%;
+	height: inherit;
+	position: absolute;
+	top:0;
+	left:0;
+	bottom: 0;
+	right: 0;
+	background-color:rgba(0,0,0,0.6); 
+	color:white;
+}
+.sidebar{
+	width:100%;
+	background: #303030;
+	padding:15px 20px;
+	border-radius: 5px;
+	
+}
+.sidebar ul{
+	list-style: none;
+	color:white;
+}
+.sidebar ul li{
+	padding-top: 10px;
+}
+.sidebar ul li a{
+	color:white;
+}
+button .link{
+	color:white;
+}
+.link:hover{
+	color:white;
+	text-decoration: none;
+}
+.form-group{
+	width:100% !important;
+}
+.box{
+	box-shadow: 2px 2px 5px #345123;
+	padding:30px;
+}
+.vertical{
+	background-color:#301030;
+	height:100%;
+	width:100%;
+	color:white;
+}
+.login-content{
+	width:40%;
+	margin:auto;
+	background:#fff;
+	padding:25px;
+	box-shadow: 2px 3px 5px #ccc;
+}
+
+.top-nav{
+	background: #301030;
+	color:white;
+}
+.top-nav a{
+	color:white;
+
+}
+.content-box {
+   margin-bottom:30px;
+   background:#301030;
+   padding:10px 10px;
+   border-left:1px solid #eee;
+   border-top:1px solid #eee;
+   border-right:2px solid #eee;
+   border-bottom:2px solid #eee; 
+}
+
+
+.sidebar .nav > li {
+  width:100%;
+  margin: 0;
+   border-bottom:1px solid #321;
+
+}
+
+.sidebar .nav > li:last-child{
+   border-bottom:0px;
+}
+
+.sidebar .nav > li > a {
+  font-size: 14px;
+  line-height: 20px;
+  padding: 15px 15px;
+  color: #999;
+  display: block;
+   font-weight:bold;
+   background:none;
+  text-decoration: none;
+   border-top:0px;
+   font-weight:bold;
+}
+
+
+.sidebar .nav li a:hover, .sidebar .nav li.current > a {
+  
+  color: #ccc;
+   border-bottom:0px;
+}
