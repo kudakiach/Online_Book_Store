@@ -1,0 +1,7 @@
+the database is in the folder 'database'.
+
+Go to phpmyadmin => create a database called online_book.
+Import the database
+
+to access Admin panel : localhost/online/admin  login using username = admin and password = admin
+to access user panel : localhost/online
